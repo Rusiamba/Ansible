@@ -1,0 +1,6 @@
+[app]
+192.168.50.28 ansible_ssh_pass=Jimbo_2013 ansible_ssh_user=anisble
+192.168.50.205 ansible_ssh_pass=Jimbo_2013 ansible_ssh_user=vm3
+
+[database]
+192.168.50.94 ansible_ssh_pass=Jimbo_2013 ansible_ssh_user=ftpserver
